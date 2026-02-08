@@ -16,7 +16,7 @@ If not 3.11 install python 3.11
 `.venv\Scripts\activate`
 `python manage.py runserver`
 
-# 📘 Project Monitoring System – Backend API Documentation
+# 📘 Backend API Documentation
 
 **Base URL (Development)**
 
